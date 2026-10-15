@@ -1,0 +1,19 @@
+[2026-10-14T06:05:30.873Z] Activating Agent Skill Installer
+[2026-10-14T06:05:30.882Z] appName: Code OSS for Cloud Shell, ideType: 6
+[2026-10-14T06:05:30.882Z] Profile antigravity-ide is NOT active
+[2026-10-14T06:05:30.882Z] Profile antigravity is NOT active
+[2026-10-14T06:05:30.882Z] Profile jetski is NOT active
+[2026-10-14T06:05:30.882Z] Profile cursor is NOT active
+[2026-10-14T06:05:30.882Z] Profile copilot is NOT active
+[2026-10-14T06:05:30.882Z] Profile gemini-code-assist is active
+[2026-10-14T06:05:30.882Z] appName: Code OSS for Cloud Shell, ideType: 6
+[2026-10-14T06:05:30.882Z] Profile antigravity-ide is NOT active
+[2026-10-14T06:05:30.882Z] Profile antigravity is NOT active
+[2026-10-14T06:05:30.882Z] Profile jetski is NOT active
+[2026-10-14T06:05:30.882Z] Profile cursor is NOT active
+[2026-10-14T06:05:30.882Z] Profile copilot is NOT active
+[2026-10-14T06:05:30.882Z] Profile gemini-code-assist is active
+[2026-10-14T06:05:35.471Z] Checking skills for Gemini Code Assist in /home/ackj87/.gemini/skills. Force=false
+[2026-10-14T06:05:35.473Z] Skills are up to date: bundle checksum matches, all installed skills are on disk, and the selected skill set is unchanged. Skipping installation.
+[2026-10-14T06:05:35.473Z] Syncing telemetry hooks for gemini-code-assist. Telemetry enabled: true
+[2026-10-14T06:05:35.479Z] Hook plugin for gemini-code-assist installed successfully to /home/ackj87/.gemini/config/plugins/googlecloudtools.datacloud_telemetry

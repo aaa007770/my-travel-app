@@ -1,0 +1,18 @@
+2026-10-13 08:56:22.738 [warning] Dir "/home/ackj87/.pixi/envs" is not watchable (directory does not exist)
+2026-10-13 08:56:22.738 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-10-13 08:56:22.918 [info] Starting Environment refresh
+2026-10-13 08:56:22.979 [info] Python interpreter path: /bin/python
+2026-10-13 08:56:22.998 [info] > hatch env show --json
+2026-10-13 08:56:22.998 [info] cwd: .
+2026-10-13 08:56:23.023 [info] > conda info --json
+2026-10-13 08:56:23.120 [info] Starting Environment refresh
+2026-10-13 08:56:23.175 [info] > /bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2026-10-13 08:56:23.188 [info] Environments refresh paths discovered: 272 milliseconds
+2026-10-13 08:56:23.207 [info] Environments refresh paths discovered: 88 milliseconds
+2026-10-13 08:56:23.244 [info] Environments refresh finished (event): 327 milliseconds
+2026-10-13 08:56:23.244 [info] Environments refresh finished (event): 125 milliseconds
+2026-10-13 08:56:23.248 [info] Environment refresh took 332 milliseconds
+2026-10-13 08:56:23.250 [info] Environment refresh took 131 milliseconds
+2026-10-13 08:56:23.266 [info] > pyenv which python
+2026-10-13 08:56:23.266 [info] cwd: .
+2026-10-13 08:56:24.860 [info] Starting Jedi language server for ackj87.

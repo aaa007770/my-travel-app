@@ -1,0 +1,14 @@
+2026-10-14 06:05:16.133 [info] 
+
+
+
+
+2026-10-14 06:05:16.146 [info] [AgentHostChannel] Registered unavailable IPC channel 'agentHostProxy': no --agent-host-bridge-port / --agent-host-bridge-path set.
+2026-10-14 06:05:16.155 [info] Extension host agent started.
+2026-10-14 06:05:17.815 [info] [127.0.0.1][3b96a452][ManagementConnection] New connection established.
+2026-10-14 06:05:17.817 [info] [127.0.0.1][df902d42][ExtensionHostConnection] New connection established.
+2026-10-14 06:05:19.003 [info] [127.0.0.1][df902d42][ExtensionHostConnection] <1695> Launched Extension Host Process.
+2026-10-14 06:05:19.660 [info] [127.0.0.1][df902d42][ExtensionHostConnection] <1695> [reconnection-grace-time] Extension host: read VSCODE_RECONNECTION_GRACE_TIME=10800000ms (10800s)
+
+2026-10-14 06:16:06.426 [info] [127.0.0.1][3b96a452][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2026-10-14 06:16:07.151 [info] [127.0.0.1][df902d42][ExtensionHostConnection] <1695> Extension Host Process exited with code: 0, signal: null.

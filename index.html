@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+  <head>
+    <meta charset="UTF-8" />cd ~/my-travel-app
+
+# 1. 確保 base path 與建置輸出目錄正確
+npm run build
+
+# 2. 建立 .nojekyll 避免 GitHub 忽略底線檔案
+touch dist/.nojekyll
+
+# 3. 強制部署 dist 資料夾至 gh-pages 分支
+npx gh-pages -d dist -f
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>旅遊行程與團隊權限管理系統</title>
+    <script type="module" crossorigin src="/my-travel-app/assets/index-CjZRDZ15.js"></script>
+    <link rel="stylesheet" crossorigin href="/my-travel-app/assets/index-BzN-BPpd.css">
+  </head>
+  <body class="bg-slate-900 text-slate-100 antialiased">
+    <div id="root"></div>
+    <!-- ⚠️ 將原本的 /src/main.jsx 改為 ./src/main.jsx -->
+  </body>
+</html>

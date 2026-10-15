@@ -1,0 +1,64 @@
+[2026-10-13T07:43:50.019Z] Activating Agent Skill Installer
+[2026-10-13T07:43:50.025Z] appName: Code OSS for Cloud Shell, ideType: 6
+[2026-10-13T07:43:50.025Z] Profile antigravity-ide is NOT active
+[2026-10-13T07:43:50.025Z] Profile antigravity is NOT active
+[2026-10-13T07:43:50.025Z] Profile jetski is NOT active
+[2026-10-13T07:43:50.025Z] Profile cursor is NOT active
+[2026-10-13T07:43:50.025Z] Profile copilot is NOT active
+[2026-10-13T07:43:50.025Z] Profile gemini-code-assist is active
+[2026-10-13T07:43:50.026Z] appName: Code OSS for Cloud Shell, ideType: 6
+[2026-10-13T07:43:50.026Z] Profile antigravity-ide is NOT active
+[2026-10-13T07:43:50.026Z] Profile antigravity is NOT active
+[2026-10-13T07:43:50.026Z] Profile jetski is NOT active
+[2026-10-13T07:43:50.026Z] Profile cursor is NOT active
+[2026-10-13T07:43:50.026Z] Profile copilot is NOT active
+[2026-10-13T07:43:50.026Z] Profile gemini-code-assist is active
+[2026-10-13T07:43:52.846Z] Checking skills for Gemini Code Assist in /home/ackj87/.gemini/skills. Force=false
+[2026-10-13T07:43:52.846Z] No previous manifest found or it was invalid.
+[2026-10-13T07:43:52.847Z] Ensured destination directory exists: /home/ackj87/.gemini/skills
+[2026-10-13T07:43:52.850Z] Ensured destination directory exists: /home/ackj87/.gemini/skills/accidental-data-loss-prevention
+[2026-10-13T07:43:52.850Z] Ensured destination directory exists: /home/ackj87/.gemini/skills/bigquery-data-transfer-service
+[2026-10-13T07:43:52.850Z] Ensured destination directory exists: /home/ackj87/.gemini/skills/bigquery-sql
+[2026-10-13T07:43:52.850Z] Ensured destination directory exists: /home/ackj87/.gemini/skills/building-data-apps
+[2026-10-13T07:43:52.850Z] Ensured destination directory exists: /home/ackj87/.gemini/skills/data-autocleaning
+[2026-10-13T07:43:52.850Z] Ensured destination directory exists: /home/ackj87/.gemini/skills/dataform-bigquery
+[2026-10-13T07:43:52.850Z] Ensured destination directory exists: /home/ackj87/.gemini/skills/dbt-bigquery
+[2026-10-13T07:43:52.850Z] Ensured destination directory exists: /home/ackj87/.gemini/skills/discovering-gcp-data-assets
+[2026-10-13T07:43:52.850Z] Ensured destination directory exists: /home/ackj87/.gemini/skills/enforcing-resource-attribution
+[2026-10-13T07:43:52.850Z] Ensured destination directory exists: /home/ackj87/.gemini/skills/gcp-data-pipelines
+[2026-10-13T07:43:52.850Z] Ensured destination directory exists: /home/ackj87/.gemini/skills/gcp-dataflow
+[2026-10-13T07:43:52.850Z] Ensured destination directory exists: /home/ackj87/.gemini/skills/gcp-pipeline-orchestration
+[2026-10-13T07:43:52.851Z] Ensured destination directory exists: /home/ackj87/.gemini/skills/gcp-pipeline-resource-provisioning
+[2026-10-13T07:43:52.851Z] Ensured destination directory exists: /home/ackj87/.gemini/skills/gcp-spark
+[2026-10-13T07:43:52.851Z] Ensured destination directory exists: /home/ackj87/.gemini/skills/gcp-spark-troubleshooting
+[2026-10-13T07:43:52.851Z] Ensured destination directory exists: /home/ackj87/.gemini/skills/google-cloud-auth-verification
+[2026-10-13T07:43:52.851Z] Ensured destination directory exists: /home/ackj87/.gemini/skills/managing-python-dependencies
+[2026-10-13T07:43:52.851Z] Ensured destination directory exists: /home/ackj87/.gemini/skills/ml-best-practices
+[2026-10-13T07:43:52.851Z] Ensured destination directory exists: /home/ackj87/.gemini/skills/notebook-guidance
+[2026-10-13T07:43:52.851Z] Ensured destination directory exists: /home/ackj87/.gemini/skills/schema-mapping
+[2026-10-13T07:43:52.851Z] Ensured destination directory exists: /home/ackj87/.gemini/skills/skill-repair
+[2026-10-13T07:43:52.860Z] Copied skill accidental-data-loss-prevention to /home/ackj87/.gemini/skills/accidental-data-loss-prevention
+[2026-10-13T07:43:52.860Z] Copied skill dbt-bigquery to /home/ackj87/.gemini/skills/dbt-bigquery
+[2026-10-13T07:43:52.860Z] Copied skill dataform-bigquery to /home/ackj87/.gemini/skills/dataform-bigquery
+[2026-10-13T07:43:52.861Z] Copied skill discovering-gcp-data-assets to /home/ackj87/.gemini/skills/discovering-gcp-data-assets
+[2026-10-13T07:43:52.861Z] Copied skill enforcing-resource-attribution to /home/ackj87/.gemini/skills/enforcing-resource-attribution
+[2026-10-13T07:43:52.861Z] Copied skill gcp-data-pipelines to /home/ackj87/.gemini/skills/gcp-data-pipelines
+[2026-10-13T07:43:52.861Z] Copied skill ml-best-practices to /home/ackj87/.gemini/skills/ml-best-practices
+[2026-10-13T07:43:52.862Z] Copied skill managing-python-dependencies to /home/ackj87/.gemini/skills/managing-python-dependencies
+[2026-10-13T07:43:52.862Z] Copied skill google-cloud-auth-verification to /home/ackj87/.gemini/skills/google-cloud-auth-verification
+[2026-10-13T07:43:52.862Z] Copied skill notebook-guidance to /home/ackj87/.gemini/skills/notebook-guidance
+[2026-10-13T07:43:52.862Z] Copied skill schema-mapping to /home/ackj87/.gemini/skills/schema-mapping
+[2026-10-13T07:43:52.863Z] Copied skill skill-repair to /home/ackj87/.gemini/skills/skill-repair
+[2026-10-13T07:43:52.863Z] Copied skill bigquery-sql to /home/ackj87/.gemini/skills/bigquery-sql
+[2026-10-13T07:43:52.864Z] Copied skill data-autocleaning to /home/ackj87/.gemini/skills/data-autocleaning
+[2026-10-13T07:43:52.864Z] Copied skill bigquery-data-transfer-service to /home/ackj87/.gemini/skills/bigquery-data-transfer-service
+[2026-10-13T07:43:52.864Z] Copied skill gcp-pipeline-resource-provisioning to /home/ackj87/.gemini/skills/gcp-pipeline-resource-provisioning
+[2026-10-13T07:43:52.866Z] Copied skill gcp-spark to /home/ackj87/.gemini/skills/gcp-spark
+[2026-10-13T07:43:52.867Z] Copied skill gcp-pipeline-orchestration to /home/ackj87/.gemini/skills/gcp-pipeline-orchestration
+[2026-10-13T07:43:52.868Z] Copied skill building-data-apps to /home/ackj87/.gemini/skills/building-data-apps
+[2026-10-13T07:43:52.869Z] Copied skill gcp-spark-troubleshooting to /home/ackj87/.gemini/skills/gcp-spark-troubleshooting
+[2026-10-13T07:43:52.869Z] Copied skill gcp-dataflow to /home/ackj87/.gemini/skills/gcp-dataflow
+[2026-10-13T07:43:52.869Z] Finished copying skills to /home/ackj87/.gemini/skills. Updated 21 skills.
+[2026-10-13T07:43:52.870Z] Installation completed. Manifest updated.
+[2026-10-13T07:43:52.870Z] Syncing telemetry hooks for gemini-code-assist. Telemetry enabled: true
+[2026-10-13T07:43:52.878Z] Hook plugin for gemini-code-assist installed successfully to /home/ackj87/.gemini/config/plugins/googlecloudtools.datacloud_telemetry

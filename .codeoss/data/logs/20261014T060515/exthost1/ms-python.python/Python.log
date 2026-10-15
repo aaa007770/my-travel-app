@@ -1,0 +1,7 @@
+2026-10-14 06:05:34.781 [warning] Dir "/home/ackj87/.pixi/envs" is not watchable (directory does not exist)
+2026-10-14 06:05:35.043 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-10-14 06:05:35.070 [info] > conda info --json
+2026-10-14 06:05:35.074 [info] Python interpreter path: /bin/python
+2026-10-14 06:05:36.311 [info] > pyenv which python
+2026-10-14 06:05:36.311 [info] cwd: .
+2026-10-14 06:05:40.523 [info] Starting Jedi language server for ackj87.

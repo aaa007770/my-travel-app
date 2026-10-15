@@ -1,0 +1,23 @@
+2026-10-14 06:05:34.802 [info] read schema from vscode: vscode://schemas/vscode-extensions
+2026-10-14 06:05:35.113 [info] read schema from vscode: vscode://schemas/settings/configurationDefaults
+2026-10-14 06:05:35.116 [info] read schema from vscode: vscode://schemas/toolsParameters
+2026-10-14 06:05:36.684 [info] schema change detected vscode://schemas/settings/configurationDefaults
+2026-10-14 06:05:36.766 [info] schema change detected vscode://schemas/settings/configurationDefaults
+2026-10-14 06:05:37.048 [info] read schema from vscode: vscode://schemas/settings/resourceLanguage
+2026-10-14 06:05:37.068 [info] read schema from vscode: vscode://schemas/token-styling
+2026-10-14 06:05:37.084 [info] read schema from vscode: vscode://schemas/textmate-colors
+2026-10-14 06:05:37.094 [info] read schema from vscode: vscode://schemas/workbench-colors
+2026-10-14 06:05:37.841 [info] read schema from vscode: vscode://schemas/vscode-extensions
+2026-10-14 06:05:37.978 [info] schema change detected vscode://schemas/settings/resourceLanguage
+2026-10-14 06:05:38.174 [info] schema change detected vscode://schemas/settings/configurationDefaults
+2026-10-14 06:05:38.219 [info] read schema from vscode: vscode://schemas/settings/configurationDefaults
+2026-10-14 06:05:39.605 [info] read schema from vscode: vscode://schemas/settings/resourceLanguage
+2026-10-14 06:05:41.618 [info] schema change detected vscode://schemas/settings/configurationDefaults
+2026-10-14 06:05:41.625 [info] read schema from vscode: vscode://schemas/vscode-extensions
+2026-10-14 06:05:41.950 [info] read schema from vscode: vscode://schemas/settings/configurationDefaults
+2026-10-14 06:05:47.695 [info] schema change detected vscode://schemas/settings/configurationDefaults
+2026-10-14 06:05:47.701 [info] read schema from vscode: vscode://schemas/vscode-extensions
+2026-10-14 06:05:47.813 [info] read schema from vscode: vscode://schemas/settings/configurationDefaults
+2026-10-14 06:12:47.965 [info] schema change detected vscode://schemas/settings/configurationDefaults
+2026-10-14 06:12:47.968 [info] read schema from vscode: vscode://schemas/vscode-extensions
+2026-10-14 06:12:48.081 [info] read schema from vscode: vscode://schemas/settings/configurationDefaults
